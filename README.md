@@ -1,0 +1,1 @@
+# hashlip-generate-smartcontract-minting
