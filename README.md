@@ -2,14 +2,16 @@
 
 ## Art Generation
 
-Forked from 
+My version : https://github.com/fransyozef/hashlips_art_engine
 
-https://github.com/HashLips/hashlips_art_engine
+Forked from : https://github.com/HashLips/hashlips_art_engine
 
 ## Smartcontract
 
-Forked from https://github.com/hashlips-lab/nft-erc721-collection
+My version : https://github.com/fransyozef/nft-erc721-collection
+
+Forked from : https://github.com/hashlips-lab/nft-erc721-collection
 
 ## Minting dapp
-
-Forked from https://github.com/hashlips-lab/nft-erc721-collection
+My version : https://github.com/fransyozef/nft-erc721-collection
+Forked from :  https://github.com/hashlips-lab/nft-erc721-collection
